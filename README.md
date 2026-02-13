@@ -1,10 +1,11 @@
-💼 Job Portal Web Application
+##💼 Job Portal Web Application
 
 A full-stack Job Portal Web Application built using Java (JSP & Servlets), JDBC, and MySQL, following the MVC architecture.
 This platform connects Employers and Job Seekers, allowing job posting, skill-based matching, and application tracking.
 
-🚀 Features
-👤 Job Seeker
+#🚀 Features
+
+#👤 Job Seeker
 
 Register & Login
 
@@ -20,7 +21,7 @@ Apply for Jobs
 
 Track Application Status
 
-🏢 Employer
+#🏢 Employer
 
 Register & Login
 
@@ -32,7 +33,7 @@ Open / Close Job Status
 
 View Applicants for Posted Jobs
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Frontend: JSP, HTML, CSS
 
@@ -55,13 +56,13 @@ Server: Apache Tomcat
  ├── CSS
  └── WEB-INF
 ```
-🧠 Key Functional Modules
+#🧠 Key Functional Modules
 
-🔐 Authentication System (Session-based login)
+*🔐 Authentication System (Session-based login)
 
-📄 Job Management
+*📄 Job Management
 
-🎯 Skill-Based Job Matching
+*🎯 Skill-Based Job Matching
 
 📬 Application Tracking System
 
