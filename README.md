@@ -1,49 +1,49 @@
-##💼 Job Portal Web Application
+# 💼 Job Portal Web Application
 
 A full-stack Job Portal Web Application built using Java (JSP & Servlets), JDBC, and MySQL, following the MVC architecture.
 This platform connects Employers and Job Seekers, allowing job posting, skill-based matching, and application tracking.
 
-#🚀 Features
+## 🚀 Features
 
-#👤 Job Seeker
+## 👤 Job Seeker
 
-Register & Login
+* Register & Login
 
-Update profile (name, email, experience, location, resume)
+* Update profile (name, email, experience, location, resume)
 
-Add / Update Skills
+* Add / Update Skills
 
-View All Jobs
+* View All Jobs
 
-View Matched Jobs (based on skills)
+* View Matched Jobs (based on skills)
 
-Apply for Jobs
+* Apply for Jobs
 
-Track Application Status
+* Track Application Status
 
-#🏢 Employer
+## 🏢 Employer
 
-Register & Login
+* Register & Login
 
-Post New Jobs
+* Post New Jobs
 
-Update Job Details
+* Update Job Details
 
-Open / Close Job Status
+* Open / Close Job Status
 
-View Applicants for Posted Jobs
+* View Applicants for Posted Jobs
 
-#🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Frontend: JSP, HTML, CSS
+* Frontend: JSP, HTML, CSS
 
-Backend: Java Servlets
+* Backend: Java Servlets
 
-Database: MySQL
+* Database: MySQL
 
-Architecture: MVC Pattern
+* Architecture: MVC Pattern
 
-Server: Apache Tomcat
+* Server: Apache Tomcat
 ```bash
 🗂️ Project Structure
 📁 src
@@ -56,59 +56,72 @@ Server: Apache Tomcat
  ├── CSS
  └── WEB-INF
 ```
-#🧠 Key Functional Modules
+# 🧠 Key Functional Modules
 
-*🔐 Authentication System (Session-based login)
+* 🔐 Authentication System (Session-based login)
 
-*📄 Job Management
+* 📄 Job Management
 
-*🎯 Skill-Based Job Matching
+* 🎯 Skill-Based Job Matching
 
-📬 Application Tracking System
+* 📬 Application Tracking System
 
-📊 Employer Dashboard
+* 📊 Employer Dashboard
 
-📈 Job Seeker Dashboard
+* 📈 Job Seeker Dashboard
 
-⚙️ How to Run
+# ⚙️ How to Run
 
-Clone the repository
+* Clone the repository
+```bash
+git clone https://github.com/your-username/job-portal.git
+```
 
-Import project into Eclipse (Dynamic Web Project)
+* Import project into Eclipse as a Dynamic Web Project
 
-Configure MySQL database
+* Configure MySQL Database
 
-Update DB credentials in DAO classes
+* Create database
 
-Deploy on Apache Tomcat
+* Import required tables
 
-Run on browser:
+* Update DB credentials in DAO classes
+
+* Deploy on Apache Tomcat
+
+* Run in browser:
 ```bash
 http://localhost:8080/YourProjectName
 ```
+# 📌 Future Improvements
 
-📌 Future Improvements
+* Pagination
 
-Pagination
+* Advanced filtering & search
 
-Advanced filtering & search
+* Resume upload storage optimization
 
-Resume upload storage optimization
+* Admin dashboard
 
-Admin dashboard
+* REST API version
 
-REST API version
+* Spring Boot upgrade
 
-Spring Boot upgrade
-
-👨‍💻 Author
+# 👨‍💻 Author
 
 Developed as a full-stack Java web application project to demonstrate:
-
 Servlet & JSP integration
 
-MVC architecture
+* MVC architecture
 
-Database connectivity using JDBC
+* Database connectivity using JDBC
 
-Real-world CRUD operations
+* Real-world CRUD operations
+
+* Session management & authentication
+
+* MVC architecture
+
+* Database connectivity using JDBC
+
+* Real-world CRUD operations
