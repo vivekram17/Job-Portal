@@ -91,7 +91,7 @@ git clone https://github.com/your-username/job-portal.git
 
 * Run in browser:
 ```bash
-http://localhost:8080/YourProjectName
+http://localhost:8080/JobPortal
 ```
 # 📌 Future Improvements
 
